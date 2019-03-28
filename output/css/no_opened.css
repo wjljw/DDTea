@@ -1,0 +1,26 @@
+body {
+  background: #fffc01;
+}
+.main {
+  width: 100%;
+  height: 100%;
+  text-align: center;
+}
+.main .no_kaifang {
+  width: 100%;
+  min-height: 300px;
+  position: relative;
+  top: 100px;
+  background: url(../../img/timg.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.main span {
+  color: #353535;
+  font-size: 50px;
+  font-weight: bold;
+  position: relative;
+  top: 300px;
+  font-family: 'LiSu';
+}
